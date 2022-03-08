@@ -6,7 +6,6 @@ on:
         description: Release Version
         required: true
 
-
 jobs:
   maven_release:
     name: Maven Release
