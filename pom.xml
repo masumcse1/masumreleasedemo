@@ -26,13 +26,6 @@
   </scm>
 
 
-  <distributionManagement>
-    <repository>
-      <id>github</id>
-      <name>Campsite Booking REST API</name>
-      <url>https://maven.pkg.github.com/igor-baiborodine/campsite-booking</url>
-    </repository>
-  </distributionManagement>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
