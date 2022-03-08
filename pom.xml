@@ -17,6 +17,7 @@
     <relativePath /> <!-- lookup parent from bookingRepository -->
   </parent>
 
+
   <scm>
     <connection>scm:git:${project.scm.url}</connection>
     <developerConnection>scm:git:${project.scm.url}</developerConnection>
